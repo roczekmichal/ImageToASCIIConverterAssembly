@@ -1,0 +1,18 @@
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\bin\Debug\ImageToASCIIconverter.exe
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\bin\Debug\ImageToASCIIconverter.pdb
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.AssemblyReference.cache
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.Form1.resources
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.Properties.Resources.resources
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.GenerateResource.cache
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.CoreCompileInputs.cache
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.exe
+C:\Users\alert\Downloads\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.pdb
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\bin\Debug\ImageToASCIIconverter.exe
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\bin\Debug\ImageToASCIIconverter.pdb
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.AssemblyReference.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.Form1.resources
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.Properties.Resources.resources
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.GenerateResource.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.csproj.CoreCompileInputs.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.exe
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\obj\Debug\ImageToASCIIconverter.pdb
